@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+}
+.box{
+    width: 600px;
+    height: 100vh;
+    /* clip-path: polygon(20% 0%, 100% 19%, 100% 100%, 0% 100%); */
+     background-color: aquamarine;
+     clip-path: polygon(66.3% 6.47%, 76.4% 69.42%, 38.8% 82.04%);
+}
+.th{
+    background-size: cover;
+    height: 500px;
+    height: 100vh;
+}
+.img{
+    width: 500px;
+    clip-path: inset(99px 114px 52px 129px);
+}
